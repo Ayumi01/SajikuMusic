@@ -36,7 +36,7 @@ from pyrogram.types import (
 )
 
 
-def start_pannel():
+def start_pannel(https://telegra.ph/file/19415686c7af87c11eafa.jpg):
     buttons = [
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ​", url=f"https://t.me/{GROUP}"),
@@ -50,7 +50,7 @@ def start_pannel():
         ],
     ]
     return (
-        "🎛 **{BOT_NAME} Merupakan salah satu dari bot telegram yang bisa memutar musik di grup**",
+        "🎛 **{sᴀᴊɪᴋᴜ 〆 ʀᴏʙᴏᴛ} Merupakan salah satu dari bot telegram yang bisa memutar musik di grup**",
         buttons,
     )
 
@@ -59,7 +59,7 @@ pstart_markup = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{Jikurobot}?startgroup=true"),
         ],
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ​", url=f"https://t.me/{GROUP}"),
